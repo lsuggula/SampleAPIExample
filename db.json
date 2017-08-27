@@ -1,0 +1,1505 @@
+[{
+		"timestamp": "2016-03-18 20:31:01",
+		"meal": 0,
+		"bg_value": 158
+	},
+	{
+		"timestamp": "2016-03-07 01:22:37",
+		"meal": 1,
+		"bg_value": 242
+	},
+	{
+		"timestamp": "2016-03-22 22:03:43",
+		"meal": 0,
+		"bg_value": 150
+	},
+	{
+		"timestamp": "2016-03-18 08:38:52",
+		"meal": 0,
+		"bg_value": 182
+	},
+	{
+		"timestamp": "2016-03-17 20:33:18",
+		"meal": 0,
+		"bg_value": 231
+	},
+	{
+		"timestamp": "2016-03-18 01:14:42",
+		"meal": 1,
+		"bg_value": 200
+	},
+	{
+		"timestamp": "2016-03-19 06:37:37",
+		"meal": 1,
+		"bg_value": 145
+	},
+	{
+		"timestamp": "2016-03-30 12:11:41",
+		"meal": 1,
+		"bg_value": 222
+	},
+	{
+		"timestamp": "2016-03-16 08:37:38",
+		"meal": 0,
+		"bg_value": 172
+	},
+	{
+		"timestamp": "2016-03-13 22:37:55",
+		"meal": 0,
+		"bg_value": 157
+	},
+	{
+		"timestamp": "2016-03-05 20:03:46",
+		"meal": 0,
+		"bg_value": 209
+	},
+	{
+		"timestamp": "2016-03-03 17:37:19",
+		"meal": 1,
+		"bg_value": 185
+	},
+	{
+		"timestamp": "2016-03-25 10:30:33",
+		"meal": 0,
+		"bg_value": 200
+	},
+	{
+		"timestamp": "2016-03-20 21:47:15",
+		"meal": 0,
+		"bg_value": 101
+	},
+	{
+		"timestamp": "2016-03-20 19:52:25",
+		"meal": 0,
+		"bg_value": 149
+	},
+	{
+		"timestamp": "2016-03-03 00:30:57",
+		"meal": 0,
+		"bg_value": 121
+	},
+	{
+		"timestamp": "2016-03-19 00:22:55",
+		"meal": 0,
+		"bg_value": 191
+	},
+	{
+		"timestamp": "2016-03-23 16:38:01",
+		"meal": 1,
+		"bg_value": 241
+	},
+	{
+		"timestamp": "2016-03-27 22:29:20",
+		"meal": 1,
+		"bg_value": 245
+	},
+	{
+		"timestamp": "2016-03-07 07:52:58",
+		"meal": 1,
+		"bg_value": 208
+	},
+	{
+		"timestamp": "2016-03-05 19:23:45",
+		"meal": 0,
+		"bg_value": 145
+	},
+	{
+		"timestamp": "2016-03-20 19:08:54",
+		"meal": 1,
+		"bg_value": 220
+	},
+	{
+		"timestamp": "2016-03-01 10:41:18",
+		"meal": 0,
+		"bg_value": 207
+	},
+	{
+		"timestamp": "2016-03-09 23:42:51",
+		"meal": 1,
+		"bg_value": 164
+	},
+	{
+		"timestamp": "2016-03-08 19:33:57",
+		"meal": 1,
+		"bg_value": 215
+	},
+	{
+		"timestamp": "2016-03-23 18:45:42",
+		"meal": 0,
+		"bg_value": 201
+	},
+	{
+		"timestamp": "2016-03-18 17:27:12",
+		"meal": 1,
+		"bg_value": 238
+	},
+	{
+		"timestamp": "2016-03-13 18:49:37",
+		"meal": 0,
+		"bg_value": 112
+	},
+	{
+		"timestamp": "2016-03-05 05:32:55",
+		"meal": 0,
+		"bg_value": 135
+	},
+	{
+		"timestamp": "2016-03-11 10:06:43",
+		"meal": 0,
+		"bg_value": 204
+	},
+	{
+		"timestamp": "2016-03-14 06:44:09",
+		"meal": 0,
+		"bg_value": 217
+	},
+	{
+		"timestamp": "2016-03-02 19:11:58",
+		"meal": 1,
+		"bg_value": 212
+	},
+	{
+		"timestamp": "2016-03-18 12:50:15",
+		"meal": 1,
+		"bg_value": 172
+	},
+	{
+		"timestamp": "2016-03-14 17:24:46",
+		"meal": 1,
+		"bg_value": 165
+	},
+	{
+		"timestamp": "2016-03-07 14:22:11",
+		"meal": 1,
+		"bg_value": 132
+	},
+	{
+		"timestamp": "2016-03-27 20:57:00",
+		"meal": 1,
+		"bg_value": 190
+	},
+	{
+		"timestamp": "2016-03-23 02:42:25",
+		"meal": 0,
+		"bg_value": 236
+	},
+	{
+		"timestamp": "2016-03-20 23:42:23",
+		"meal": 0,
+		"bg_value": 100
+	},
+	{
+		"timestamp": "2016-03-20 09:20:52",
+		"meal": 1,
+		"bg_value": 162
+	},
+	{
+		"timestamp": "2016-03-23 00:35:10",
+		"meal": 0,
+		"bg_value": 133
+	},
+	{
+		"timestamp": "2016-03-01 15:25:51",
+		"meal": 1,
+		"bg_value": 164
+	},
+	{
+		"timestamp": "2016-03-04 11:45:27",
+		"meal": 1,
+		"bg_value": 207
+	},
+	{
+		"timestamp": "2016-03-13 16:02:13",
+		"meal": 1,
+		"bg_value": 143
+	},
+	{
+		"timestamp": "2016-03-08 11:17:34",
+		"meal": 1,
+		"bg_value": 188
+	},
+	{
+		"timestamp": "2016-03-08 09:34:50",
+		"meal": 0,
+		"bg_value": 217
+	},
+	{
+		"timestamp": "2016-03-25 02:36:03",
+		"meal": 0,
+		"bg_value": 175
+	},
+	{
+		"timestamp": "2016-03-17 18:25:20",
+		"meal": 1,
+		"bg_value": 136
+	},
+	{
+		"timestamp": "2016-03-15 02:12:20",
+		"meal": 0,
+		"bg_value": 125
+	},
+	{
+		"timestamp": "2016-03-20 03:55:51",
+		"meal": 1,
+		"bg_value": 237
+	},
+	{
+		"timestamp": "2016-03-10 15:05:03",
+		"meal": 1,
+		"bg_value": 182
+	},
+	{
+		"timestamp": "2016-03-06 06:55:24",
+		"meal": 1,
+		"bg_value": 203
+	},
+	{
+		"timestamp": "2016-03-21 11:40:41",
+		"meal": 0,
+		"bg_value": 169
+	},
+	{
+		"timestamp": "2016-03-28 14:09:06",
+		"meal": 1,
+		"bg_value": 157
+	},
+	{
+		"timestamp": "2016-03-21 21:42:38",
+		"meal": 1,
+		"bg_value": 132
+	},
+	{
+		"timestamp": "2016-03-09 13:34:01",
+		"meal": 1,
+		"bg_value": 147
+	},
+	{
+		"timestamp": "2016-03-23 06:03:36",
+		"meal": 0,
+		"bg_value": 218
+	},
+	{
+		"timestamp": "2016-03-06 00:09:09",
+		"meal": 0,
+		"bg_value": 190
+	},
+	{
+		"timestamp": "2016-03-28 10:58:01",
+		"meal": 1,
+		"bg_value": 153
+	},
+	{
+		"timestamp": "2016-03-16 00:58:13",
+		"meal": 1,
+		"bg_value": 242
+	},
+	{
+		"timestamp": "2016-03-30 14:25:09",
+		"meal": 1,
+		"bg_value": 199
+	},
+	{
+		"timestamp": "2016-03-14 12:59:50",
+		"meal": 1,
+		"bg_value": 180
+	},
+	{
+		"timestamp": "2016-03-04 01:44:42",
+		"meal": 0,
+		"bg_value": 232
+	},
+	{
+		"timestamp": "2016-03-19 14:12:02",
+		"meal": 1,
+		"bg_value": 240
+	},
+	{
+		"timestamp": "2016-03-18 23:42:40",
+		"meal": 0,
+		"bg_value": 167
+	},
+	{
+		"timestamp": "2016-03-26 22:32:44",
+		"meal": 0,
+		"bg_value": 100
+	},
+	{
+		"timestamp": "2016-03-01 20:52:56",
+		"meal": 0,
+		"bg_value": 216
+	},
+	{
+		"timestamp": "2016-03-04 18:49:45",
+		"meal": 0,
+		"bg_value": 154
+	},
+	{
+		"timestamp": "2016-03-12 14:46:17",
+		"meal": 1,
+		"bg_value": 140
+	},
+	{
+		"timestamp": "2016-03-19 04:00:44",
+		"meal": 1,
+		"bg_value": 131
+	},
+	{
+		"timestamp": "2016-03-19 21:15:50",
+		"meal": 1,
+		"bg_value": 156
+	},
+	{
+		"timestamp": "2016-03-07 21:23:03",
+		"meal": 0,
+		"bg_value": 236
+	},
+	{
+		"timestamp": "2016-03-21 03:48:05",
+		"meal": 0,
+		"bg_value": 169
+	},
+	{
+		"timestamp": "2016-03-17 15:50:21",
+		"meal": 0,
+		"bg_value": 154
+	},
+	{
+		"timestamp": "2016-03-01 03:24:31",
+		"meal": 0,
+		"bg_value": 181
+	},
+	{
+		"timestamp": "2016-03-20 06:27:33",
+		"meal": 1,
+		"bg_value": 201
+	},
+	{
+		"timestamp": "2016-03-29 13:40:13",
+		"meal": 1,
+		"bg_value": 127
+	},
+	{
+		"timestamp": "2016-03-15 17:54:18",
+		"meal": 1,
+		"bg_value": 226
+	},
+	{
+		"timestamp": "2016-03-13 06:12:11",
+		"meal": 1,
+		"bg_value": 140
+	},
+	{
+		"timestamp": "2016-03-05 20:33:01",
+		"meal": 1,
+		"bg_value": 175
+	},
+	{
+		"timestamp": "2016-03-18 09:37:45",
+		"meal": 0,
+		"bg_value": 242
+	},
+	{
+		"timestamp": "2016-03-21 08:56:44",
+		"meal": 0,
+		"bg_value": 172
+	},
+	{
+		"timestamp": "2016-03-03 00:30:44",
+		"meal": 0,
+		"bg_value": 107
+	},
+	{
+		"timestamp": "2016-03-03 06:35:36",
+		"meal": 1,
+		"bg_value": 231
+	},
+	{
+		"timestamp": "2016-03-19 23:08:22",
+		"meal": 0,
+		"bg_value": 189
+	},
+	{
+		"timestamp": "2016-03-05 05:51:14",
+		"meal": 0,
+		"bg_value": 135
+	},
+	{
+		"timestamp": "2016-03-19 12:20:09",
+		"meal": 0,
+		"bg_value": 245
+	},
+	{
+		"timestamp": "2016-03-06 12:34:01",
+		"meal": 0,
+		"bg_value": 147
+	},
+	{
+		"timestamp": "2016-03-23 09:08:49",
+		"meal": 0,
+		"bg_value": 245
+	},
+	{
+		"timestamp": "2016-03-24 08:29:43",
+		"meal": 0,
+		"bg_value": 139
+	},
+	{
+		"timestamp": "2016-03-05 04:18:19",
+		"meal": 0,
+		"bg_value": 231
+	},
+	{
+		"timestamp": "2016-03-05 05:52:19",
+		"meal": 1,
+		"bg_value": 108
+	},
+	{
+		"timestamp": "2016-03-22 16:44:02",
+		"meal": 0,
+		"bg_value": 120
+	},
+	{
+		"timestamp": "2016-03-28 01:27:25",
+		"meal": 1,
+		"bg_value": 239
+	},
+	{
+		"timestamp": "2016-03-09 13:11:52",
+		"meal": 1,
+		"bg_value": 121
+	},
+	{
+		"timestamp": "2016-03-14 11:18:08",
+		"meal": 0,
+		"bg_value": 195
+	},
+	{
+		"timestamp": "2016-03-19 19:57:44",
+		"meal": 0,
+		"bg_value": 231
+	},
+	{
+		"timestamp": "2016-03-17 07:31:58",
+		"meal": 1,
+		"bg_value": 167
+	},
+	{
+		"timestamp": "2016-03-26 23:22:27",
+		"meal": 1,
+		"bg_value": 139
+	},
+	{
+		"timestamp": "2016-03-08 21:48:25",
+		"meal": 0,
+		"bg_value": 105
+	},
+	{
+		"timestamp": "2016-03-10 12:43:47",
+		"meal": 1,
+		"bg_value": 117
+	},
+	//END OF March 100 data...
+	//Feb data..
+	{
+		"timestamp": "2016-02-01 21:13:49",
+		"meal": 0,
+		"bg_value": 206
+	},
+	{
+		"timestamp": "2016-02-13 02:49:50",
+		"meal": 0,
+		"bg_value": 130
+	},
+	{
+		"timestamp": "2016-02-11 09:19:50",
+		"meal": 1,
+		"bg_value": 132
+	},
+	{
+		"timestamp": "2016-02-18 16:46:52",
+		"meal": 0,
+		"bg_value": 202
+	},
+	{
+		"timestamp": "2016-02-03 08:52:20",
+		"meal": 0,
+		"bg_value": 133
+	},
+	{
+		"timestamp": "2016-02-21 21:08:14",
+		"meal": 1,
+		"bg_value": 241
+	},
+	{
+		"timestamp": "2016-02-16 05:47:51",
+		"meal": 0,
+		"bg_value": 193
+	},
+	{
+		"timestamp": "2016-02-11 07:36:59",
+		"meal": 0,
+		"bg_value": 109
+	},
+	{
+		"timestamp": "2016-02-18 08:42:26",
+		"meal": 0,
+		"bg_value": 120
+	},
+	{
+		"timestamp": "2016-02-22 18:12:36",
+		"meal": 0,
+		"bg_value": 169
+	},
+	{
+		"timestamp": "2016-02-12 05:28:41",
+		"meal": 1,
+		"bg_value": 234
+	},
+	{
+		"timestamp": "2016-02-27 16:04:00",
+		"meal": 1,
+		"bg_value": 143
+	},
+	{
+		"timestamp": "2016-02-25 02:13:44",
+		"meal": 1,
+		"bg_value": 158
+	},
+	{
+		"timestamp": "2016-02-20 15:20:47",
+		"meal": 1,
+		"bg_value": 180
+	},
+	{
+		"timestamp": "2016-02-28 13:38:38",
+		"meal": 1,
+		"bg_value": 225
+	},
+	{
+		"timestamp": "2016-02-10 12:04:20",
+		"meal": 1,
+		"bg_value": 126
+	},
+	{
+		"timestamp": "2016-02-01 10:23:13",
+		"meal": 0,
+		"bg_value": 239
+	},
+	{
+		"timestamp": "2016-02-03 23:29:41",
+		"meal": 0,
+		"bg_value": 211
+	},
+	{
+		"timestamp": "2016-02-26 08:06:35",
+		"meal": 1,
+		"bg_value": 250
+	},
+	{
+		"timestamp": "2016-02-26 23:30:15",
+		"meal": 0,
+		"bg_value": 165
+	},
+	{
+		"timestamp": "2016-02-18 10:49:06",
+		"meal": 0,
+		"bg_value": 190
+	},
+	{
+		"timestamp": "2016-02-25 07:14:37",
+		"meal": 0,
+		"bg_value": 165
+	},
+	{
+		"timestamp": "2016-02-15 13:13:35",
+		"meal": 0,
+		"bg_value": 186
+	},
+	{
+		"timestamp": "2016-02-09 22:08:49",
+		"meal": 0,
+		"bg_value": 211
+	},
+	{
+		"timestamp": "2016-02-16 05:21:12",
+		"meal": 0,
+		"bg_value": 203
+	},
+	{
+		"timestamp": "2016-02-01 01:18:48",
+		"meal": 0,
+		"bg_value": 155
+	},
+	{
+		"timestamp": "2016-02-11 23:32:09",
+		"meal": 1,
+		"bg_value": 156
+	},
+	{
+		"timestamp": "2016-02-18 14:17:59",
+		"meal": 1,
+		"bg_value": 226
+	},
+	{
+		"timestamp": "2016-02-28 23:25:25",
+		"meal": 1,
+		"bg_value": 127
+	},
+	{
+		"timestamp": "2016-02-23 14:52:44",
+		"meal": 0,
+		"bg_value": 170
+	},
+	{
+		"timestamp": "2016-02-05 22:41:14",
+		"meal": 0,
+		"bg_value": 143
+	},
+	{
+		"timestamp": "2016-02-28 22:14:39",
+		"meal": 0,
+		"bg_value": 234
+	},
+	{
+		"timestamp": "2016-02-16 19:24:03",
+		"meal": 1,
+		"bg_value": 201
+	},
+	{
+		"timestamp": "2016-02-18 16:46:47",
+		"meal": 1,
+		"bg_value": 230
+	},
+	{
+		"timestamp": "2016-02-26 07:27:15",
+		"meal": 1,
+		"bg_value": 108
+	},
+	{
+		"timestamp": "2016-02-22 01:27:54",
+		"meal": 1,
+		"bg_value": 164
+	},
+	{
+		"timestamp": "2016-02-25 17:42:03",
+		"meal": 1,
+		"bg_value": 173
+	},
+	{
+		"timestamp": "2016-02-06 22:39:13",
+		"meal": 1,
+		"bg_value": 109
+	},
+	{
+		"timestamp": "2016-02-27 19:27:18",
+		"meal": 1,
+		"bg_value": 170
+	},
+	{
+		"timestamp": "2016-02-20 00:02:11",
+		"meal": 1,
+		"bg_value": 120
+	},
+	{
+		"timestamp": "2016-02-25 01:30:48",
+		"meal": 1,
+		"bg_value": 144
+	},
+	{
+		"timestamp": "2016-02-07 04:54:05",
+		"meal": 1,
+		"bg_value": 101
+	},
+	{
+		"timestamp": "2016-02-15 22:49:13",
+		"meal": 0,
+		"bg_value": 212
+	},
+	{
+		"timestamp": "2016-02-22 00:23:45",
+		"meal": 0,
+		"bg_value": 239
+	},
+	{
+		"timestamp": "2016-02-24 15:11:42",
+		"meal": 0,
+		"bg_value": 111
+	},
+	{
+		"timestamp": "2016-02-10 10:39:42",
+		"meal": 1,
+		"bg_value": 196
+	},
+	{
+		"timestamp": "2016-02-26 08:27:53",
+		"meal": 0,
+		"bg_value": 108
+	},
+	{
+		"timestamp": "2016-02-04 12:06:17",
+		"meal": 0,
+		"bg_value": 161
+	},
+	{
+		"timestamp": "2016-02-07 20:30:14",
+		"meal": 0,
+		"bg_value": 181
+	},
+	{
+		"timestamp": "2016-02-20 02:12:24",
+		"meal": 1,
+		"bg_value": 182
+	},
+	{
+		"timestamp": "2016-02-11 22:44:56",
+		"meal": 1,
+		"bg_value": 115
+	},
+	{
+		"timestamp": "2016-02-10 05:52:02",
+		"meal": 1,
+		"bg_value": 170
+	},
+	{
+		"timestamp": "2016-02-27 05:42:33",
+		"meal": 1,
+		"bg_value": 249
+	},
+	{
+		"timestamp": "2016-02-09 20:43:58",
+		"meal": 0,
+		"bg_value": 173
+	},
+	{
+		"timestamp": "2016-02-22 12:48:43",
+		"meal": 0,
+		"bg_value": 238
+	},
+	{
+		"timestamp": "2016-02-06 16:17:24",
+		"meal": 0,
+		"bg_value": 107
+	},
+	{
+		"timestamp": "2016-02-21 20:36:18",
+		"meal": 1,
+		"bg_value": 128
+	},
+	{
+		"timestamp": "2016-02-26 05:41:21",
+		"meal": 1,
+		"bg_value": 162
+	},
+	{
+		"timestamp": "2016-02-15 16:36:29",
+		"meal": 0,
+		"bg_value": 121
+	},
+	{
+		"timestamp": "2016-02-18 12:38:34",
+		"meal": 0,
+		"bg_value": 191
+	},
+	{
+		"timestamp": "2016-02-25 11:49:38",
+		"meal": 0,
+		"bg_value": 108
+	},
+	{
+		"timestamp": "2016-02-16 05:50:16",
+		"meal": 0,
+		"bg_value": 245
+	},
+	{
+		"timestamp": "2016-02-17 11:54:48",
+		"meal": 0,
+		"bg_value": 155
+	},
+	{
+		"timestamp": "2016-02-14 10:34:56",
+		"meal": 0,
+		"bg_value": 235
+	},
+	{
+		"timestamp": "2016-02-25 14:17:06",
+		"meal": 0,
+		"bg_value": 202
+	},
+	{
+		"timestamp": "2016-02-10 13:04:46",
+		"meal": 0,
+		"bg_value": 181
+	},
+	{
+		"timestamp": "2016-02-06 12:10:48",
+		"meal": 1,
+		"bg_value": 104
+	},
+	{
+		"timestamp": "2016-02-25 07:24:43",
+		"meal": 1,
+		"bg_value": 129
+	},
+	{
+		"timestamp": "2016-02-12 00:37:08",
+		"meal": 1,
+		"bg_value": 144
+	},
+	{
+		"timestamp": "2016-02-20 14:16:10",
+		"meal": 1,
+		"bg_value": 175
+	},
+	{
+		"timestamp": "2016-02-15 00:00:35",
+		"meal": 1,
+		"bg_value": 213
+	},
+	{
+		"timestamp": "2016-02-07 05:15:26",
+		"meal": 1,
+		"bg_value": 225
+	},
+	{
+		"timestamp": "2016-02-26 20:44:13",
+		"meal": 1,
+		"bg_value": 110
+	},
+	{
+		"timestamp": "2016-02-15 02:29:25",
+		"meal": 0,
+		"bg_value": 178
+	},
+	{
+		"timestamp": "2016-02-18 08:15:24",
+		"meal": 1,
+		"bg_value": 103
+	},
+	{
+		"timestamp": "2016-02-28 22:13:56",
+		"meal": 0,
+		"bg_value": 191
+	},
+	{
+		"timestamp": "2016-02-06 20:12:26",
+		"meal": 0,
+		"bg_value": 237
+	},
+	{
+		"timestamp": "2016-02-10 05:57:09",
+		"meal": 1,
+		"bg_value": 147
+	},
+	{
+		"timestamp": "2016-02-23 06:55:46",
+		"meal": 0,
+		"bg_value": 125
+	},
+	{
+		"timestamp": "2016-02-10 03:06:33",
+		"meal": 0,
+		"bg_value": 186
+	},
+	{
+		"timestamp": "2016-02-27 09:19:56",
+		"meal": 1,
+		"bg_value": 129
+	},
+	{
+		"timestamp": "2016-02-22 17:33:01",
+		"meal": 1,
+		"bg_value": 129
+	},
+	{
+		"timestamp": "2016-02-26 05:57:59",
+		"meal": 0,
+		"bg_value": 116
+	},
+	{
+		"timestamp": "2016-02-14 00:00:58",
+		"meal": 0,
+		"bg_value": 204
+	},
+	{
+		"timestamp": "2016-02-27 16:33:10",
+		"meal": 0,
+		"bg_value": 192
+	},
+	{
+		"timestamp": "2016-02-04 12:04:59",
+		"meal": 1,
+		"bg_value": 123
+	},
+	{
+		"timestamp": "2016-02-19 13:20:22",
+		"meal": 1,
+		"bg_value": 226
+	},
+	{
+		"timestamp": "2016-02-02 03:11:52",
+		"meal": 0,
+		"bg_value": 190
+	},
+	{
+		"timestamp": "2016-02-06 00:11:46",
+		"meal": 1,
+		"bg_value": 101
+	},
+	{
+		"timestamp": "2016-02-06 02:56:17",
+		"meal": 0,
+		"bg_value": 111
+	},
+	{
+		"timestamp": "2016-02-17 02:57:51",
+		"meal": 1,
+		"bg_value": 164
+	},
+	{
+		"timestamp": "2016-02-28 04:28:22",
+		"meal": 0,
+		"bg_value": 120
+	},
+	{
+		"timestamp": "2016-02-06 12:51:39",
+		"meal": 1,
+		"bg_value": 169
+	},
+	{
+		"timestamp": "2016-02-10 13:46:11",
+		"meal": 1,
+		"bg_value": 108
+	},
+	{
+		"timestamp": "2016-02-11 01:07:54",
+		"meal": 0,
+		"bg_value": 160
+	},
+	{
+		"timestamp": "2016-02-20 20:27:11",
+		"meal": 1,
+		"bg_value": 102
+	},
+	{
+		"timestamp": "2016-02-05 07:46:07",
+		"meal": 0,
+		"bg_value": 141
+	},
+	{
+		"timestamp": "2016-02-20 21:42:08",
+		"meal": 1,
+		"bg_value": 147
+	},
+	{
+		"timestamp": "2016-02-25 07:54:27",
+		"meal": 0,
+		"bg_value": 124
+	},
+	{
+		"timestamp": "2016-02-05 05:20:29",
+		"meal": 1,
+		"bg_value": 250
+	},
+	//END OF Feb data...
+	//Start Jan data..
+	{
+		"timestamp": "2016-01-19 15:44:34",
+		"meal": 1,
+		"bg_value": 123
+	},
+	{
+		"timestamp": "2016-01-25 10:49:13",
+		"meal": 0,
+		"bg_value": 157
+	},
+	{
+		"timestamp": "2016-01-03 13:29:51",
+		"meal": 1,
+		"bg_value": 129
+	},
+	{
+		"timestamp": "2016-01-11 06:41:06",
+		"meal": 0,
+		"bg_value": 191
+	},
+	{
+		"timestamp": "2016-01-02 20:53:15",
+		"meal": 0,
+		"bg_value": 139
+	},
+	{
+		"timestamp": "2016-01-26 01:57:01",
+		"meal": 0,
+		"bg_value": 121
+	},
+	{
+		"timestamp": "2016-01-09 15:22:08",
+		"meal": 1,
+		"bg_value": 171
+	},
+	{
+		"timestamp": "2016-01-30 00:27:01",
+		"meal": 1,
+		"bg_value": 117
+	},
+	{
+		"timestamp": "2016-01-02 12:15:53",
+		"meal": 1,
+		"bg_value": 185
+	},
+	{
+		"timestamp": "2016-01-17 10:23:05",
+		"meal": 0,
+		"bg_value": 230
+	},
+	{
+		"timestamp": "2016-01-21 09:10:06",
+		"meal": 1,
+		"bg_value": 221
+	},
+	{
+		"timestamp": "2016-01-29 13:43:29",
+		"meal": 1,
+		"bg_value": 188
+	},
+	{
+		"timestamp": "2016-01-12 04:39:39",
+		"meal": 0,
+		"bg_value": 112
+	},
+	{
+		"timestamp": "2016-01-03 14:29:28",
+		"meal": 1,
+		"bg_value": 178
+	},
+	{
+		"timestamp": "2016-01-16 04:57:07",
+		"meal": 1,
+		"bg_value": 172
+	},
+	{
+		"timestamp": "2016-01-08 06:05:23",
+		"meal": 0,
+		"bg_value": 220
+	},
+	{
+		"timestamp": "2016-01-17 04:10:21",
+		"meal": 0,
+		"bg_value": 193
+	},
+	{
+		"timestamp": "2016-01-12 10:21:53",
+		"meal": 0,
+		"bg_value": 248
+	},
+	{
+		"timestamp": "2016-01-22 12:49:31",
+		"meal": 1,
+		"bg_value": 145
+	},
+	{
+		"timestamp": "2016-01-09 15:59:25",
+		"meal": 1,
+		"bg_value": 199
+	},
+	{
+		"timestamp": "2016-01-18 13:17:40",
+		"meal": 1,
+		"bg_value": 221
+	},
+	{
+		"timestamp": "2016-01-21 15:43:14",
+		"meal": 1,
+		"bg_value": 181
+	},
+	{
+		"timestamp": "2016-01-22 19:31:40",
+		"meal": 1,
+		"bg_value": 174
+	},
+	{
+		"timestamp": "2016-01-29 21:04:43",
+		"meal": 0,
+		"bg_value": 208
+	},
+	{
+		"timestamp": "2016-01-01 18:33:25",
+		"meal": 1,
+		"bg_value": 102
+	},
+	{
+		"timestamp": "2016-01-12 10:05:48",
+		"meal": 1,
+		"bg_value": 141
+	},
+	{
+		"timestamp": "2016-01-16 05:51:04",
+		"meal": 1,
+		"bg_value": 191
+	},
+	{
+		"timestamp": "2016-01-26 23:54:13",
+		"meal": 1,
+		"bg_value": 237
+	},
+	{
+		"timestamp": "2016-01-10 05:30:44",
+		"meal": 0,
+		"bg_value": 171
+	},
+	{
+		"timestamp": "2016-01-25 04:55:46",
+		"meal": 1,
+		"bg_value": 209
+	},
+	{
+		"timestamp": "2016-01-15 03:59:22",
+		"meal": 0,
+		"bg_value": 247
+	},
+	{
+		"timestamp": "2016-01-30 06:05:09",
+		"meal": 0,
+		"bg_value": 106
+	},
+	{
+		"timestamp": "2016-01-16 00:30:29",
+		"meal": 1,
+		"bg_value": 159
+	},
+	{
+		"timestamp": "2016-01-16 00:33:07",
+		"meal": 0,
+		"bg_value": 165
+	},
+	{
+		"timestamp": "2016-01-15 07:22:38",
+		"meal": 1,
+		"bg_value": 110
+	},
+	{
+		"timestamp": "2016-01-10 06:26:04",
+		"meal": 1,
+		"bg_value": 180
+	},
+	{
+		"timestamp": "2016-01-10 18:57:12",
+		"meal": 1,
+		"bg_value": 166
+	},
+	{
+		"timestamp": "2016-01-24 18:56:03",
+		"meal": 1,
+		"bg_value": 157
+	},
+	{
+		"timestamp": "2016-01-10 15:50:00",
+		"meal": 0,
+		"bg_value": 158
+	},
+	{
+		"timestamp": "2016-01-21 14:37:54",
+		"meal": 0,
+		"bg_value": 182
+	},
+	{
+		"timestamp": "2016-01-19 02:49:56",
+		"meal": 1,
+		"bg_value": 128
+	},
+	{
+		"timestamp": "2016-01-05 15:23:37",
+		"meal": 1,
+		"bg_value": 215
+	},
+	{
+		"timestamp": "2016-01-28 10:15:25",
+		"meal": 1,
+		"bg_value": 100
+	},
+	{
+		"timestamp": "2016-01-01 21:35:41",
+		"meal": 1,
+		"bg_value": 183
+	},
+	{
+		"timestamp": "2016-01-15 19:25:37",
+		"meal": 1,
+		"bg_value": 177
+	},
+	{
+		"timestamp": "2016-01-26 21:09:48",
+		"meal": 0,
+		"bg_value": 248
+	},
+	{
+		"timestamp": "2016-01-12 19:18:02",
+		"meal": 1,
+		"bg_value": 206
+	},
+	{
+		"timestamp": "2016-01-14 19:18:39",
+		"meal": 1,
+		"bg_value": 178
+	},
+	{
+		"timestamp": "2016-01-14 13:34:31",
+		"meal": 0,
+		"bg_value": 122
+	},
+	{
+		"timestamp": "2016-01-22 06:29:38",
+		"meal": 1,
+		"bg_value": 120
+	},
+	{
+		"timestamp": "2016-01-10 21:12:31",
+		"meal": 0,
+		"bg_value": 169
+	},
+	{
+		"timestamp": "2016-01-01 20:00:10",
+		"meal": 1,
+		"bg_value": 161
+	},
+	{
+		"timestamp": "2016-01-14 04:09:48",
+		"meal": 1,
+		"bg_value": 185
+	},
+	{
+		"timestamp": "2016-01-05 03:35:47",
+		"meal": 0,
+		"bg_value": 148
+	},
+	{
+		"timestamp": "2016-01-22 19:32:14",
+		"meal": 1,
+		"bg_value": 236
+	},
+	{
+		"timestamp": "2016-01-10 14:51:16",
+		"meal": 1,
+		"bg_value": 250
+	},
+	{
+		"timestamp": "2016-01-21 02:41:51",
+		"meal": 1,
+		"bg_value": 211
+	},
+	{
+		"timestamp": "2016-01-03 18:11:07",
+		"meal": 0,
+		"bg_value": 239
+	},
+	{
+		"timestamp": "2016-01-25 09:54:57",
+		"meal": 0,
+		"bg_value": 193
+	},
+	{
+		"timestamp": "2016-01-27 15:16:11",
+		"meal": 1,
+		"bg_value": 138
+	},
+	{
+		"timestamp": "2016-01-02 10:28:32",
+		"meal": 1,
+		"bg_value": 174
+	},
+	{
+		"timestamp": "2016-01-12 18:23:25",
+		"meal": 1,
+		"bg_value": 123
+	},
+	{
+		"timestamp": "2016-01-27 23:49:43",
+		"meal": 1,
+		"bg_value": 105
+	},
+	{
+		"timestamp": "2016-01-20 14:58:41",
+		"meal": 0,
+		"bg_value": 182
+	},
+	{
+		"timestamp": "2016-01-18 01:01:08",
+		"meal": 0,
+		"bg_value": 146
+	},
+	{
+		"timestamp": "2016-01-21 00:00:37",
+		"meal": 0,
+		"bg_value": 180
+	},
+	{
+		"timestamp": "2016-01-11 00:40:35",
+		"meal": 1,
+		"bg_value": 205
+	},
+	{
+		"timestamp": "2016-01-08 07:01:35",
+		"meal": 0,
+		"bg_value": 141
+	},
+	{
+		"timestamp": "2016-01-28 06:21:55",
+		"meal": 1,
+		"bg_value": 136
+	},
+	{
+		"timestamp": "2016-01-08 03:33:23",
+		"meal": 0,
+		"bg_value": 114
+	},
+	{
+		"timestamp": "2016-01-17 09:20:17",
+		"meal": 0,
+		"bg_value": 197
+	},
+	{
+		"timestamp": "2016-01-09 23:26:18",
+		"meal": 1,
+		"bg_value": 150
+	},
+	{
+		"timestamp": "2016-01-01 22:48:13",
+		"meal": 0,
+		"bg_value": 203
+	},
+	{
+		"timestamp": "2016-01-10 17:08:54",
+		"meal": 0,
+		"bg_value": 169
+	},
+	{
+		"timestamp": "2016-01-12 07:48:53",
+		"meal": 1,
+		"bg_value": 106
+	},
+	{
+		"timestamp": "2016-01-11 05:55:34",
+		"meal": 1,
+		"bg_value": 210
+	},
+	{
+		"timestamp": "2016-01-28 16:22:01",
+		"meal": 1,
+		"bg_value": 228
+	},
+	{
+		"timestamp": "2016-01-14 22:08:09",
+		"meal": 0,
+		"bg_value": 249
+	},
+	{
+		"timestamp": "2016-01-30 18:53:52",
+		"meal": 0,
+		"bg_value": 118
+	},
+	{
+		"timestamp": "2016-01-14 09:20:57",
+		"meal": 1,
+		"bg_value": 220
+	},
+	{
+		"timestamp": "2016-01-29 07:29:29",
+		"meal": 1,
+		"bg_value": 213
+	},
+	{
+		"timestamp": "2016-01-26 16:59:48",
+		"meal": 1,
+		"bg_value": 124
+	},
+	{
+		"timestamp": "2016-01-20 18:15:57",
+		"meal": 1,
+		"bg_value": 221
+	},
+	{
+		"timestamp": "2016-01-16 04:02:19",
+		"meal": 1,
+		"bg_value": 226
+	},
+	{
+		"timestamp": "2016-01-21 07:20:02",
+		"meal": 0,
+		"bg_value": 218
+	},
+	{
+		"timestamp": "2016-01-21 01:21:57",
+		"meal": 0,
+		"bg_value": 231
+	},
+	{
+		"timestamp": "2016-01-18 07:01:25",
+		"meal": 0,
+		"bg_value": 174
+	},
+	{
+		"timestamp": "2016-01-29 14:20:36",
+		"meal": 1,
+		"bg_value": 216
+	},
+	{
+		"timestamp": "2016-01-14 10:33:01",
+		"meal": 1,
+		"bg_value": 236
+	},
+	{
+		"timestamp": "2016-01-07 04:23:23",
+		"meal": 1,
+		"bg_value": 226
+	},
+	{
+		"timestamp": "2016-01-27 09:25:20",
+		"meal": 1,
+		"bg_value": 226
+	},
+	{
+		"timestamp": "2016-01-28 04:49:54",
+		"meal": 1,
+		"bg_value": 152
+	},
+	{
+		"timestamp": "2016-01-12 11:56:04",
+		"meal": 1,
+		"bg_value": 241
+	},
+	{
+		"timestamp": "2016-01-09 19:32:30",
+		"meal": 1,
+		"bg_value": 210
+	},
+	{
+		"timestamp": "2016-01-13 18:36:05",
+		"meal": 0,
+		"bg_value": 205
+	},
+	{
+		"timestamp": "2016-01-22 20:47:16",
+		"meal": 1,
+		"bg_value": 183
+	},
+	{
+		"timestamp": "2016-01-17 07:44:03",
+		"meal": 1,
+		"bg_value": 142
+	},
+	{
+		"timestamp": "2016-01-22 09:09:30",
+		"meal": 1,
+		"bg_value": 215
+	},
+	{
+		"timestamp": "2016-01-28 09:17:57",
+		"meal": 0,
+		"bg_value": 177
+	},
+	{
+		"timestamp": "2016-01-25 21:45:50",
+		"meal": 1,
+		"bg_value": 134
+	}
+]
