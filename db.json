@@ -389,46 +389,6 @@
 		"bg_value": 231
 	},
 	{
-		"timestamp": "2016-03-19 23:08:22",
-		"meal": 0,
-		"bg_value": 189
-	},
-	{
-		"timestamp": "2016-03-05 05:51:14",
-		"meal": 0,
-		"bg_value": 135
-	},
-	{
-		"timestamp": "2016-03-19 12:20:09",
-		"meal": 0,
-		"bg_value": 245
-	},
-	{
-		"timestamp": "2016-03-06 12:34:01",
-		"meal": 0,
-		"bg_value": 147
-	},
-	{
-		"timestamp": "2016-03-23 09:08:49",
-		"meal": 0,
-		"bg_value": 245
-	},
-	{
-		"timestamp": "2016-03-24 08:29:43",
-		"meal": 0,
-		"bg_value": 139
-	},
-	{
-		"timestamp": "2016-03-05 04:18:19",
-		"meal": 0,
-		"bg_value": 231
-	},
-	{
-		"timestamp": "2016-03-05 05:52:19",
-		"meal": 1,
-		"bg_value": 108
-	},
-	{
 		"timestamp": "2016-03-22 16:44:02",
 		"meal": 0,
 		"bg_value": 120
@@ -649,31 +609,6 @@
 		"timestamp": "2016-02-26 07:27:15",
 		"meal": 1,
 		"bg_value": 108
-	},
-	{
-		"timestamp": "2016-02-22 01:27:54",
-		"meal": 1,
-		"bg_value": 164
-	},
-	{
-		"timestamp": "2016-02-25 17:42:03",
-		"meal": 1,
-		"bg_value": 173
-	},
-	{
-		"timestamp": "2016-02-06 22:39:13",
-		"meal": 1,
-		"bg_value": 109
-	},
-	{
-		"timestamp": "2016-02-27 19:27:18",
-		"meal": 1,
-		"bg_value": 170
-	},
-	{
-		"timestamp": "2016-02-20 00:02:11",
-		"meal": 1,
-		"bg_value": 120
 	},
 	{
 		"timestamp": "2016-02-25 01:30:48",
@@ -1191,41 +1126,6 @@
 		"timestamp": "2016-01-28 10:15:25",
 		"meal": 1,
 		"bg_value": 100
-	},
-	{
-		"timestamp": "2016-01-01 21:35:41",
-		"meal": 1,
-		"bg_value": 183
-	},
-	{
-		"timestamp": "2016-01-15 19:25:37",
-		"meal": 1,
-		"bg_value": 177
-	},
-	{
-		"timestamp": "2016-01-26 21:09:48",
-		"meal": 0,
-		"bg_value": 248
-	},
-	{
-		"timestamp": "2016-01-12 19:18:02",
-		"meal": 1,
-		"bg_value": 206
-	},
-	{
-		"timestamp": "2016-01-14 19:18:39",
-		"meal": 1,
-		"bg_value": 178
-	},
-	{
-		"timestamp": "2016-01-14 13:34:31",
-		"meal": 0,
-		"bg_value": 122
-	},
-	{
-		"timestamp": "2016-01-22 06:29:38",
-		"meal": 1,
-		"bg_value": 120
 	},
 	{
 		"timestamp": "2016-01-10 21:12:31",
