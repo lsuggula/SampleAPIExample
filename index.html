@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <style>
+      #container {
+        min-width: 310px;
+        max-width: 1000px;
+        height: 400px;
+        margin: 0 auto
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container"></div>
+    <p></p>
+    <script>
+      var root = 'http://jsonplaceholder.typicode.com';
+      var plotData = [];
+      var commentLength = [];
+      var wordLength = [];
+      for(var i=1; i<=10; i++)  {
+        $.ajax({
+        url: root + '/posts/'+i+'/comments',
+        method: 'GET'
+      }).then(function(data) {
+//        console.log(data);
+          for(var j=0; j<data.length; j++) {
+//            console.log("id: "+data[j].id);
+            commentLength.push(data[j].name.length);
+//            console.log("inside commentLength: "+commentLength);
+            wordLength.push(data[j].name.split(" ").length);
+          }
+          values(commentLength, wordLength);
+      });
+      }
+      var values = function(commentLength, wordLength) {
+          Highcharts.chart('container', {
+            title: {
+                text: 'Sample word count vs length of comments'
+            },
+
+            subtitle: {
+                text: 'jsonplaceholder.typicode.com'
+            },
+
+            yAxis: {
+                title: {
+                    text: 'Values of counts length and word'
+                }
+            },
+            xAxis: {
+                title: {
+                    text: 'id'
+                }
+            },
+            legend: {
+                layout: 'vertical',
+                align: 'right',
+                verticalAlign: 'middle'
+            },
+
+            plotOptions: {
+                series: {
+                    pointStart: 1
+                }
+            },
+
+            series: [{
+                name: 'Sentence length',
+              data: commentLength
+            }, {
+                name: 'Word count',
+              data: wordLength
+            }],
+            
+            tooltip: {
+              shared: true,
+              split: true,
+              shadow: true
+            }
+
+        });  
+      };
+    </script>
+  </body>
+</html>
